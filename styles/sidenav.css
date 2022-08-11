@@ -1,0 +1,11 @@
+li{
+    margin-right: 10%;
+}
+
+li:hover{
+    background-color: bisque;
+}
+
+list:hover{
+    color: blue;
+};
